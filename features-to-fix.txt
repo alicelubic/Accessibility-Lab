@@ -1,0 +1,6 @@
+Accessibility Lab features to fix:
+
+1. search icon  next to search by location does not do anything - couldn't find it in the code to fix it...?
+2. tabs dont have descriptions - fixed that
+3. doesn't read whats in the chart - no clue how to fix that.
+
